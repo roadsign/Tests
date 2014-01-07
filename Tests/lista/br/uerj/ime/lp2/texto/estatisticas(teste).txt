@@ -1,0 +1,5 @@
+Numero de vogais: 7
+Numero de consoantes: 24
+Numero de espacos: 9
+Numero de caracteres especiais: 1
+Total de caracteres: 41

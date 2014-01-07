@@ -1,0 +1,5 @@
+Numero de vogais: 0
+Numero de consoantes: 10
+Numero de espacos: 1
+Numero de caracteres especiais: 0
+Total de caracteres: 11
